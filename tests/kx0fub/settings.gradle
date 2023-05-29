@@ -1,0 +1,3 @@
+rootProject.name = 'kx0fub'
+include 'kx0fub'
+project(':kx0fub').projectDir = new File(settingsDir, 'kx0fub')
